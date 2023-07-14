@@ -1,0 +1,6 @@
+{
+    "name": "dylan-work/phpstan-bug",
+    "require": {
+        "phpstan/phpstan": "^1.10"
+    }
+}

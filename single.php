@@ -21,7 +21,6 @@
 
 declare(strict_types=1);
 
-namespace pocketmine\utils {
 
 use function array_map;
 use function count;
@@ -59,4 +58,3 @@ class StairShape{
 }
 
 
-}
